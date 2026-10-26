@@ -1,0 +1,4 @@
+interface:
+  display_name: "Large Document Chunker"
+  short_description: "Split oversized documents and merge reliable results"
+  default_prompt: "Use $large-document-chunker to split this oversized document safely, process every chunk, and merge the verified results."
